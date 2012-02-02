@@ -1,0 +1,9 @@
+yoursql.c - Ascertain Mysql Version
+-----------------------------------
+by Jonathan Leto <jonathan@leto.net>
+
+This will only work on hosts that actually let you connect,
+if you are blocked by an ACL, this won't work.
+
+Patches/whatever welcome.
+
